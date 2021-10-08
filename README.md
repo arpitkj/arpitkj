@@ -1,4 +1,8 @@
 ## Hello World 👋
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="centre"/>
+<br>
+
 I am a final year Computer Science undergraduate.
 - 🔭 Machine Learning and Deep Learning enthusiast.
 - 🌱 Currently working on frontend projects using React.
@@ -7,6 +11,7 @@ I am a final year Computer Science undergraduate.
 - 🍿 Movie lover.
 - 📚 Read books rest of the time.
 <br>
+
 
 ## Connect with me
 <br>
