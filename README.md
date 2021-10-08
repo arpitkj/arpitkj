@@ -1,6 +1,6 @@
-# Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="50"><br>
+# Hello World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" ><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="centre"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="centre" height="400" />
 <br>
 
 ## About Me 💻
@@ -13,6 +13,22 @@ I am a final year Computer Science undergraduate.
 - 📚 Read books rest of the time.
 <br>
 
+## Tech Stack 🛠️
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40">
+</p>
+<br>
 
 ## Let's Connect 🔗
 <br>
@@ -23,12 +39,3 @@ I am a final year Computer Science undergraduate.
 <br>
 <br>
 
-## Tech Stack 🛠️
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
