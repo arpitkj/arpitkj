@@ -4,7 +4,7 @@
 <br>
 
 ## About Me 💻
-I am a final year Computer Science undergraduate.
+I am a computer enthusiast.
 - 🔭 Machine Learning and Deep Learning enthusiast.
 - 🌱 Currently working on frontend projects using React.
 - 😎 Sometimes do competitive programming.
